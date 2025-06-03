@@ -5,6 +5,7 @@ title: Papers
 
 ## Papers
 
+<!--
 ### Preprints
 
 - [Elements of World Knowledge (EWoK): A cognition-inspired framework for
@@ -17,11 +18,6 @@ title: Papers
 
   <a class="project" href="https://ewok-core.github.io/">project page</a>
 
-- [Language modeling with editable external knowledge.](https://arxiv.org/abs/2406.11830)
-
-  Belinda Z. Li, Emmy Liu, Alexis Ross, Abbas Zeitoun, Graham Neubig and Jacob
-  Andreas.
-
 - [Policy learning with a language bottleneck.](https://arxiv.org/abs/2405.04118)
 
   Megha Srivastava, C&eacute;dric Colas, Dorsa Sadigh and Jacob Andreas.
@@ -31,23 +27,80 @@ title: Papers
   Kunal Handa, Yarin Gal, Ellie Pavlick, Noah Goodman, Jacob Andreas, Alex
   Tamkin and Belinda Z. Li.
 
-- [Eliciting human preferences with language models.](https://arxiv.org/abs/2310.11589)
-
-  Belinda Z. Li, Alex Tamkin, Noah Goodman and Jacob Andreas.
-
-  <span class="press">Press: <a
-href="https://venturebeat.com/ai/how-can-ai-better-understand-humans-simple-by-asking-us-questions/">VentureBeat</a></span>
-
-
-<!--
 - [Language models trained on media diets can predict public
   opinion.](https://arxiv.org/abs/2303.16779)
 
   Eric Chu, Jacob Andreas, Stephen Ansolabehere and Deb Roy.
 -->
 
+### 2025
+
+- [(How) do language models track state?](https://arxiv.org/abs/2503.02854)  
+
+  Belinda Z. Li, Zifan Carl Guo, Jacob Andreas.  
+
+  ICML 2025.
+
+- [The surprising effectiveness of test-time training for few-shot learning.](https://arxiv.org/abs/2411.07279)  
+
+  Ekin Aky&uuml;rek, Mehul Damani, Adam Zweiger, Linlu Qiu, Han Guo, Jyothish Pari,
+Yoon Kim, Jacob Andreas.  
+
+  ICML 2025.
+
+- [A hitchhiker's guide to scaling law estimation.](https://arxiv.org/abs/2410.11840)  
+
+  Leshem Choshen, Yang Zhang, Jacob Andreas.  
+
+  ICML 2025.
+
+- Modeling open-world cognition as on-demand synthesis of probabilistic models.
+
+  Lio Wong, Katherine Collins, Lance Ying, Cedegao Zhang, Tobias Gerstenberg, Timothy O'Donnell, Alex Lew, Jacob Andreas, Tyler Brooke-Wilson and Josh Tenenbaum.  
+
+  CogSci 2025.
+
+- Language and experience: A computational model of social learning in complex tasks.
+
+  Cédric Colas, Tracey Mills, Ben Prystawski, M.H. Tessler, Noah Goodman, Jacob Andreas and Josh Tenenbaum.  
+
+  CogSci 2025.
+
+- [Learning how hard to think: Input-adaptive allocation of LM computation.](https://arxiv.org/abs/2410.04707)  
+
+  Mehul Damani, Idan Shenfeld, Andi Peng, Andreea Bobu and Jacob Andreas.  
+
+  ICLR 2025.
+
+- [Eliciting human preferences with language models.](https://arxiv.org/abs/2310.11589)  
+
+  Belinda Li\*, Alex Tamkin\*, Noah Goodman and Jacob Andreas. 
+
+  ICLR 2025.
+
+  <span class="press">Press: <a
+href="https://venturebeat.com/ai/how-can-ai-better-understand-humans-simple-by-asking-us-questions/">VentureBeat</a></span>
+
+- [A probabilistic framework for LLM hallucination detection via belief tree propagation.](https://arxiv.org/abs/2406.06950)  
+
+  Bairu Hou, Yang Zhang, Jacob Andreas and Shiyu Chang.
+
+  NAACL 2025.
+
+- [Language modeling with editable external knowledge](https://arxiv.org/abs/2406.11830).
+
+  Belinda Z. Li, Emmy Liu, Alexis Ross, Abbas Zeitoun, Graham Neubig and Jacob Andreas
+
+  NAACL Findings, 2025.
 
 ### 2024
+
+- [Loose LIPS sink ships: Asking questions in Battleship with language-informed
+  program sampling.](https://arxiv.org/abs/2402.19471)
+
+  Gabe Grand, Valerio Pepe, Jacob Andreas and Joshua B. Tenenbaum.
+
+  CogSci, 2024.
 
 - [Algorithmic capabilities of random transformers.](https://arxiv.org/abs/2410.04368)
 

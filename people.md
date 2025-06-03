@@ -7,15 +7,13 @@ title: People
 
 <ul class="people">
   <li>
-    <a href="https://www.mit.edu/~akyurek"> 
-    <img src="assets/images/ekin.jpg">
-    Ekin Akyürek
-    </a>
+    <img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=FuETqOUAAAAJ&citpid=1">
+    Itamar Pres
   </li>
   <li>
-    <a href="https://pratyushasharma.github.io/">
-    <img src="assets/images/pratyusha.jpg">
-    Pratyusha Sharma
+    <a href="https://lillian039.github.io/">
+    <img src="https://lillian039.github.io/assets/img/prof_pic3.jpg?30e25a1caa2f7b5757da09dca8648e67">
+    Keya Hu
     </a>
   </li>
   <li>
@@ -66,6 +64,12 @@ title: People
 
 <ul class="people">
   <li>
+    <a href="https://lauraruis.github.io/">
+    <img src="https://lauraruis.github.io/images/laura.jpg">
+    Laura Ruis
+    </a>
+  </li>
+  <li>
     <a href="https://ccolas.github.io">
     <img src="assets/images/cedric.jpeg">
     C&eacute;dric Colas
@@ -81,10 +85,9 @@ title: People
 
 ## MEngs and undergrads
 <ul class="people">
-  <li>Eric Zhang</li>
-  <li>Sebastian Zhu</li>
-  <li>Muxin Liu</li>
-  <li>Reece Shuttleworth</li>
+  <li>Uzay Girit</li>
+  <li>Atticus Wang</li>
+  <li>Carl Guo</li>
   <li>Riddhi Bhagwat</li>
   <li>Nolan Clement</li>
   <li>Jen ben Arye</li>
@@ -116,6 +119,14 @@ title: People
 ## Alumni
 
 <ul class="people">
+<li>Ekin Akyürek (PhD)</li>
+<li>Pratyusha Sharma (PhD)</li>
+<li>Eric Zhang (MEng)</li>
+<li>Sebastian Zhu (MEng)</li>
+<li>Muxin Liu (SB, Harvey Mudd)</li>
+<li>Kaivu Hariharan (MEng)</li>
+<li>Reece Shuttleworth (MEng)</li>
+<li>Almog Hillel (SB)</li>
 <li>Yuka Machino (SB)</li>
 <li>Feyza Aky&uuml;rek (PhD, BU)</li>
 <li>Megha Srivastava (PhD, Stanford)</li>
