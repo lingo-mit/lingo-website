@@ -20,13 +20,13 @@ title: Papers
 
   Lionel Wong, Katherine M. Collins, Lance Ying, Cedegao E. Zhang, Adrian Weller, Tobias Gerstenberg, Timothy O'Donnell, Alexander K. Lew, Jacob D.  Andreas, Joshua B. Tenenbaum and Tyler Brooke-Wilson.
 
-- [Learning to make MISTAKEs: Modeling incorrect student thinking And key
+- [Learning to make MISTAKEs: Modeling incorrect student thinking and key
   errors](https://arxiv.org/abs/2510.11502)
 
   Alexis Ross and Jacob Andreas.
 
 - [Shoot first, ask questions later? Building rational agents that explore and
-  act like people](https://arxiv.org/abs/2510.20886)
+  act like people.](https://arxiv.org/abs/2510.20886)
 
   Gabriel Grand, Valerio Pepe, Jacob Andreas, Joshua B. Tenenbaum.
 
