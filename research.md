@@ -21,7 +21,7 @@ title: Papers
   Lionel Wong, Katherine M. Collins, Lance Ying, Cedegao E. Zhang, Adrian Weller, Tobias Gerstenberg, Timothy O'Donnell, Alexander K. Lew, Jacob D.  Andreas, Joshua B. Tenenbaum and Tyler Brooke-Wilson.
 
 - [Learning to make MISTAKEs: Modeling incorrect student thinking and key
-  errors](https://arxiv.org/abs/2510.11502)
+  errors.](https://arxiv.org/abs/2510.11502)
 
   Alexis Ross and Jacob Andreas.
 
