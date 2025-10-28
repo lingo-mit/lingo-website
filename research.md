@@ -5,8 +5,44 @@ title: Papers
 
 ## Papers
 
-<!--
 ### Preprints
+
+- [Modeling student learning with 3.8 million program traces.](https://www.arxiv.org/abs/2510.05056)
+
+  Alexis Ross, Megha Srivastava, Jeremiah Blanchard and Jacob Andreas.
+
+- [Beyond binary rewards: training LMs to reason about their uncertainty.](https://arxiv.org/abs/2507.16806)
+
+  Mehul Damani, Isha Puri, Stewart Slocum, Idan Shenfeld, Leshem Choshen, Yoon Kim and Jacob Andreas.
+
+- [Modeling open-world cognition as on-demand synthesis of probabilistic
+  models.](https://arxiv.org/abs/2507.12547)
+
+  Lionel Wong, Katherine M. Collins, Lance Ying, Cedegao E. Zhang, Adrian Weller, Tobias Gerstenberg, Timothy O'Donnell, Alexander K. Lew, Jacob D.  Andreas, Joshua B. Tenenbaum and Tyler Brooke-Wilson.
+
+- [Learning to make MISTAKEs: Modeling incorrect student thinking And key
+  errors](https://arxiv.org/abs/2510.11502)
+
+  Alexis Ross and Jacob Andreas.
+
+- [Shoot first, ask questions later? Building rational agents that explore and
+  act like people](https://arxiv.org/abs/2510.20886)
+
+  Gabriel Grand, Valerio Pepe, Jacob Andreas, Joshua B. Tenenbaum.
+
+### 2025
+
+- [Learning linear attention in polynomial time.](https://arxiv.org/abs/2410.10101)
+
+  Morris Yau, Ekin Akyürek, Jiayuan Mao, Joshua B. Tenenbaum, Stefanie Jegelka and Jacob Andreas.
+
+  NeurIPS 2025. <b>(Oral.)</b>
+
+- [A spectral understanding of LoRA fine-tuning.](https://openreview.net/forum?id=xp7B8rkh7L)
+
+  Reece S Shuttleworth, Jacob Andreas, Antonio Torralba and Pratyusha Sharma.
+
+  NeurIPS 2025.
 
 - [Elements of World Knowledge (EWoK): A cognition-inspired framework for
   evaluating basic world knowledge in language models](https://arxiv.org/abs/2405.09605)
@@ -16,24 +52,22 @@ title: Papers
   Vivian Paulun, Maria Ryskina, Ekin Akyürek, Ethan Wilcox, Nafisa Rashid, Leshem
   Choshen, Roger Levy, Evelina Fedorenko, Joshua Tenenbaum and Jacob Andreas.
 
+  TACL 2025.
+
   <a class="project" href="https://ewok-core.github.io/">project page</a>
 
-- [Policy learning with a language bottleneck.](https://arxiv.org/abs/2405.04118)
+- [Self-steering language models.](https://arxiv.org/abs/2504.07081)
 
-  Megha Srivastava, C&eacute;dric Colas, Dorsa Sadigh and Jacob Andreas.
+  Gabriel Grand, Joshua B. Tenenbaum, Vikash Mansinghka, Alexander K. Lew and
+  Jacob Andreas.
 
-- [Bayesian preference elicitation with language models.](https://arxiv.org/abs/2403.05534)
+  COLM 2025.
 
-  Kunal Handa, Yarin Gal, Ellie Pavlick, Noah Goodman, Jacob Andreas, Alex
-  Tamkin and Belinda Z. Li.
+- [Breakpoint: Scalable evaluation of system-level reasoning in LLM agents.](https://arxiv.org/abs/2506.00172)
+  
+  Kaivalya Hariharan, Uzay Girit, Zifan Wang and Jacob Andreas.
 
-- [Language models trained on media diets can predict public
-  opinion.](https://arxiv.org/abs/2303.16779)
-
-  Eric Chu, Jacob Andreas, Stephen Ansolabehere and Deb Roy.
--->
-
-### 2025
+  COLM 2025.
 
 - [(How) do language models track state?](https://arxiv.org/abs/2503.02854)  
 
