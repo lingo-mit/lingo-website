@@ -7,8 +7,10 @@ title: People
 
 <ul class="people">
   <li>
+    <a href="https://itam67.github.io/">
     <img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=FuETqOUAAAAJ&citpid=1">
     Itamar Pres
+    </a>
   </li>
   <li>
     <a href="https://lillian039.github.io/">
