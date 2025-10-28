@@ -36,7 +36,7 @@ title: Papers
 
   Morris Yau, Ekin Akyürek, Jiayuan Mao, Joshua B. Tenenbaum, Stefanie Jegelka and Jacob Andreas.
 
-  NeurIPS 2025. <b>(Oral.)</b>
+  NeurIPS 2025 <b>Oral</b>.
 
 - [A spectral understanding of LoRA fine-tuning.](https://openreview.net/forum?id=xp7B8rkh7L)
 
