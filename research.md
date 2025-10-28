@@ -7,6 +7,12 @@ title: Papers
 
 ### Preprints
 
+- [OpenEstimate: Evaluating LLMs on reasoning under uncertainty with real-world
+  data.](https://www.arxiv.org/abs/2510.15096)
+
+  Alana Renda, Jillian Ross, Michael Cafarella and Jacob Andreas.
+
+
 - [Modeling student learning with 3.8 million program traces.](https://www.arxiv.org/abs/2510.05056)
 
   Alexis Ross, Megha Srivastava, Jeremiah Blanchard and Jacob Andreas.
