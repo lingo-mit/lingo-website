@@ -7,8 +7,11 @@ title: Papers
 
 ### Preprints
 
-- [OpenEstimate: Evaluating LLMs on reasoning under uncertainty with real-world
-  data.](https://www.arxiv.org/abs/2510.15096)
+- [Training language models to explain their own computations.](https://arxiv.org/abs/2511.08579)
+
+  Belinda Z. Li, Zifan Carl Guo, Vincent Huang, Jacob Steinhardt and Jacob Andreas.
+
+- [OpenEstimate: Evaluating LLMs on reasoning under uncertainty with real-world data.](https://www.arxiv.org/abs/2510.15096)
 
   Alana Renda, Jillian Ross, Michael Cafarella and Jacob Andreas.
 
@@ -21,13 +24,7 @@ title: Papers
 
   Mehul Damani, Isha Puri, Stewart Slocum, Idan Shenfeld, Leshem Choshen, Yoon Kim and Jacob Andreas.
 
-- [Modeling open-world cognition as on-demand synthesis of probabilistic
-  models.](https://arxiv.org/abs/2507.12547)
-
-  Lionel Wong, Katherine M. Collins, Lance Ying, Cedegao E. Zhang, Adrian Weller, Tobias Gerstenberg, Timothy O'Donnell, Alexander K. Lew, Jacob D.  Andreas, Joshua B. Tenenbaum and Tyler Brooke-Wilson.
-
-- [Learning to make MISTAKEs: Modeling incorrect student thinking and key
-  errors.](https://arxiv.org/abs/2510.11502)
+- [Learning to make MISTAKEs: Modeling incorrect student thinking and key errors.](https://arxiv.org/abs/2510.11502)
 
   Alexis Ross and Jacob Andreas.
 
@@ -51,7 +48,7 @@ title: Papers
   NeurIPS 2025.
 
 - [Elements of World Knowledge (EWoK): A cognition-inspired framework for
-  evaluating basic world knowledge in language models](https://arxiv.org/abs/2405.09605)
+  evaluating basic world knowledge in language models.](https://arxiv.org/abs/2405.09605)
 
   Anna A. Ivanova\*, Aalok Sathe\*, Benjamin Lipkin\*, Unnathi Kumar, Setayesh
   Radkani, Thomas H. Clark, Carina Kauf, Jennifer Hu, R.T. Pramod, Gabriel Grand,
@@ -94,13 +91,14 @@ Yoon Kim, Jacob Andreas.
 
   ICML 2025.
 
-- Modeling open-world cognition as on-demand synthesis of probabilistic models.
+- [Modeling open-world cognition as on-demand synthesis of probabilistic
+  models.](https://arxiv.org/abs/2507.12547)
 
-  Lio Wong, Katherine Collins, Lance Ying, Cedegao Zhang, Tobias Gerstenberg, Timothy O'Donnell, Alex Lew, Jacob Andreas, Tyler Brooke-Wilson and Josh Tenenbaum.  
+  Lionel Wong, Katherine M. Collins, Lance Ying, Cedegao E. Zhang, Adrian Weller, Tobias Gerstenberg, Timothy O'Donnell, Alexander K. Lew, Jacob D.  Andreas, Joshua B. Tenenbaum and Tyler Brooke-Wilson.
 
   CogSci 2025.
 
-- Language and experience: A computational model of social learning in complex tasks.
+- [Language and experience: A computational model of social learning in complex tasks.](https://arxiv.org/abs/2509.00074)
 
   Cédric Colas, Tracey Mills, Ben Prystawski, M.H. Tessler, Noah Goodman, Jacob Andreas and Josh Tenenbaum.  
 
@@ -127,7 +125,7 @@ href="https://venturebeat.com/ai/how-can-ai-better-understand-humans-simple-by-a
 
   NAACL 2025.
 
-- [Language modeling with editable external knowledge](https://arxiv.org/abs/2406.11830).
+- [Language modeling with editable external knowledge.](https://arxiv.org/abs/2406.11830).
 
   Belinda Z. Li, Emmy Liu, Alexis Ross, Abbas Zeitoun, Graham Neubig and Jacob Andreas
 
@@ -177,7 +175,7 @@ href="https://venturebeat.com/ai/how-can-ai-better-understand-humans-simple-by-a
 
   COLM 2024.
 
-- Unforgettable generalization in language models.
+- [Unforgettable generalization in language models.](https://arxiv.org/abs/2409.02228)
 
   Eric Zhang, Leshem Choshen and Jacob Andreas.
 
