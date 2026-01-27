@@ -11,27 +11,53 @@ title: Papers
 
   Belinda Z. Li, Zifan Carl Guo, Vincent Huang, Jacob Steinhardt and Jacob Andreas.
 
-- [OpenEstimate: Evaluating LLMs on reasoning under uncertainty with real-world data.](https://www.arxiv.org/abs/2510.15096)
-
-  Alana Renda, Jillian Ross, Michael Cafarella and Jacob Andreas.
-
 
 - [Modeling student learning with 3.8 million program traces.](https://www.arxiv.org/abs/2510.05056)
 
   Alexis Ross, Megha Srivastava, Jeremiah Blanchard and Jacob Andreas.
 
-- [Beyond binary rewards: training LMs to reason about their uncertainty.](https://arxiv.org/abs/2507.16806)
-
-  Mehul Damani, Isha Puri, Stewart Slocum, Idan Shenfeld, Leshem Choshen, Yoon Kim and Jacob Andreas.
 
 - [Learning to make MISTAKEs: Modeling incorrect student thinking and key errors.](https://arxiv.org/abs/2510.11502)
 
   Alexis Ross and Jacob Andreas.
 
-- [Shoot first, ask questions later? Building rational agents that explore and
-  act like people.](https://arxiv.org/abs/2510.20886)
+### 2026
+
+- [Beyond binary rewards: training LMs to reason about their uncertainty.](https://arxiv.org/abs/2507.16806)
+
+  Mehul Damani, Isha Puri, Stewart Slocum, Idan Shenfeld, Leshem Choshen, Yoon Kim and Jacob Andreas.
+
+  ICLR 2026.
+
+- [OpenEstimate: Evaluating LLMs on reasoning under uncertainty with real-world data.](https://www.arxiv.org/abs/2510.15096)
+
+  Alana Renda, Jillian Ross, Michael Cafarella and Jacob Andreas.
+
+  ICLR 2026.
+
+- [Sequential–parallel duality in prefix scannable models.](https://arxiv.org/abs/2506.10918)
+
+  Morris Yau, Sharut Gupta, Valerie Engelmayer, Kazuki Irie, Stefanie Jegelka and Jacob Andreas.
+
+  ICLR, 2026.
+
+- [Log-Augmented generation: Scaling test-time reasoning with reusable computation.](https://arxiv.org/abs/2505.14398)
+
+  Peter Baile Chen, Yi Zhang, Dan Roth, Samuel Madden, Jacob Andreas and Mike Cafarella.
+
+  ICLR, 2026.
+
+- [Language and experience: A computational model of social learning in complex tasks.](https://arxiv.org/pdf/2509.00074)
+
+  Cédric Colas, Tracey Mills, Ben Prystawski, Michael Henry Tessler, Noah Goodman, Jacob Andreas and Joshua B. Tenenbaum.
+
+  ICLR, 2026.
+
+- [Shoot first, ask questions later? Building rational agents that explore and act like people.](https://arxiv.org/abs/2510.20886)
 
   Gabriel Grand, Valerio Pepe, Jacob Andreas, Joshua B. Tenenbaum.
+
+  ICLR 2026.
 
 ### 2025
 
