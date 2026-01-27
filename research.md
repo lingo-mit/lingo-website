@@ -55,7 +55,7 @@ title: Papers
 
 - [Shoot first, ask questions later? Building rational agents that explore and act like people.](https://arxiv.org/abs/2510.20886)
 
-  Gabriel Grand, Valerio Pepe, Jacob Andreas, Joshua B. Tenenbaum.
+  Gabriel Grand, Valerio Pepe, Joshua B. Tenenebaum and Jacob Andreas.
 
   ICLR 2026.
 
