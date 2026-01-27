@@ -95,14 +95,15 @@ title: People
   <li>Jen ben Arye</li>
 </ul>
 
-## Friends & Visitors
+<!-- ## Friends & Visitors -->
 
 ## Admin
 
 <ul class="people">
   <li>
-    <a href="mailto:nhiggins@mit.edu">
-      Nathan Higgins
+    <a href="mailto:mfarmer@mit.edu">
+      <img src="assets/images/meg.jpeg">
+      Megan Farmer
     </a>
   </li>
 </ul>
