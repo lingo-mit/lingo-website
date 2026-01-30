@@ -19,12 +19,6 @@ title: People
     </a>
   </li>
   <li>
-    <a href="https://andipeng.com/">
-    <img src="assets/images/andi.jpeg">
-    Andi Peng
-    </a>
-  </li>
-  <li>
     <a href="https://belindal.github.io/">
     <img src="assets/images/belinda.jpg">
     Belinda Li
@@ -36,12 +30,18 @@ title: People
     Gabe Grand 
     </a>
   </li>
+  <!--<li>
+    <a href="https://andipeng.com/">
+    <img src="assets/images/andi.jpeg">
+    Andi Peng
+    </a>
+  </li>
   <li>
     <a href="https://alexisjihyeross.github.io/">
     <img src="assets/images/alexis.jpg">
     Alexis Ross
     </a>
-  </li> 
+  </li>-->
   <li>
     <a href="https://damanimehul.github.io/">
     <img src="assets/images/mehul.jpg">
@@ -69,12 +69,6 @@ title: People
     <a href="https://lauraruis.github.io/">
     <img src="https://lauraruis.github.io/images/laura.jpg">
     Laura Ruis
-    </a>
-  </li>
-  <li>
-    <a href="https://ccolas.github.io">
-    <img src="assets/images/cedric.jpeg">
-    C&eacute;dric Colas
     </a>
   </li>
   <li>
@@ -122,11 +116,15 @@ title: People
 ## Alumni
 
 <ul class="people">
+<li>C&eacute;dric Colas (Postdoc)</li>
+<li>Amiri Hayes (SB, NJIT)</li>
+<li>Andre Braga (SB, UCSB)</li>
 <li>Ekin Akyürek (PhD)</li>
 <li>Pratyusha Sharma (PhD)</li>
 <li>Eric Zhang (MEng)</li>
 <li>Sebastian Zhu (MEng)</li>
 <li>Muxin Liu (SB, Harvey Mudd)</li>
+<li>Reihaneh Iranmanesh (SB, Amherst College)</li>
 <li>Kaivu Hariharan (MEng)</li>
 <li>Reece Shuttleworth (MEng)</li>
 <li>Almog Hillel (SB)</li>
