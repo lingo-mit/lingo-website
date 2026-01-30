@@ -23,6 +23,12 @@ title: Papers
 
 ### 2026
 
+- [Policy learning with a language bottleneck.](https://arxiv.org/abs/2405.04118)
+
+  Megha Srivastava, Cedric Colas, Dorsa Sadigh, Jacob Andreas.
+
+  TMLR 2026.
+
 - [Beyond binary rewards: training LMs to reason about their uncertainty.](https://arxiv.org/abs/2507.16806)
 
   Mehul Damani, Isha Puri, Stewart Slocum, Idan Shenfeld, Leshem Choshen, Yoon Kim and Jacob Andreas.
