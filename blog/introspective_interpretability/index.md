@@ -7,6 +7,8 @@ title: "Introspective Interpretability: a definition, motivation, and open probl
 
 <i>Belinda Z. Li, 5 Feb 2024</i>
 
+(Cross posted from [https://belindal.github.io/introspection/](https://belindal.github.io/introspection/))
+
 ## 1. Introduction
 
 In 2022, ChatGPT turned language models (LMs) from a tool used almost exclusively by AI researchers into the [fastest-growing consumer software application in history](https://www.reuters.com/technology/chatgpt-sets-record-fastest-growing-user-base-analyst-note-2023-02-01/), spawning a [$40 billion generative AI market](https://www.bloomberg.com/company/press/generative-ai-to-become-a-1-3-trillion-market-by-2032-research-finds/) and a boom that continues to reshape markets today. While the main technologies behind the tool had been [invented years prior](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf), it was the *single, general-purpose chat interface* that ultimately brought the technology into the mainstream.
