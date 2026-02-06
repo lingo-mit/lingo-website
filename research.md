@@ -25,7 +25,7 @@ title: Papers
 
 - [Policy learning with a language bottleneck.](https://arxiv.org/abs/2405.04118)
 
-  Megha Srivastava, Cedric Colas, Dorsa Sadigh, Jacob Andreas.
+  Megha Srivastava, Cedric Colas, Dorsa Sadigh and Jacob Andreas.
 
   TMLR 2026.
 
@@ -63,7 +63,7 @@ title: Papers
 
   Gabriel Grand, Valerio Pepe, Joshua B. Tenenebaum and Jacob Andreas.
 
-  ICLR 2026.
+  ICLR 2026 <b>Oral</b>.
 
 ### 2025
 
