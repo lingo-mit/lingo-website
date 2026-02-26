@@ -93,6 +93,9 @@ src="https://energy.mit.edu/wp-content/uploads/2024/09/Riddhi-Bhagwat-UROP-Heads
   <li><img src="https://superurop.mit.edu/wp-content/uploads/2025/10/medhaven@mit.edu_-300x300.jpg">Medha Venkatapathy</li>
   <li><a href="https://ayushnayak.com/"><img
 src="https://www.davidsongifted.org/wp-content/uploads/2022/08/Nayak_Ayush-6-545x500.jpeg">Ayush Nayak</a></li>
+<li><img
+src="https://media.licdn.com/dms/image/v2/D4E03AQEEYEK473eTwg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1714865491530?e=2147483647&v=beta&t=gvE5unAVEvKNraVQegVPGiDoW1dqcdzm6ayGAyzgwp8">Melat
+Ghebreselassie</li>
   <li><a href="https://christykl.github.io/"><img
 src="https://christykl.github.io/images/headshot.jpg">Christy Li</a></li>
 </ul>
