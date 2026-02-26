@@ -23,6 +23,12 @@ title: Papers
 
 ### 2026
 
+- [ARC is a vision problem!](https://arxiv.org/abs/2511.14761)
+
+  Keya Hu, Ali Cy, Linlu Qiu, Xiaoman Delores Ding, Runqian Wang, Yeyin Eva Zhu, Jacob Andreas, Kaiming He.
+
+  CVPR 2026.
+
 - [Policy learning with a language bottleneck.](https://arxiv.org/abs/2405.04118)
 
   Megha Srivastava, Cedric Colas, Dorsa Sadigh and Jacob Andreas.
