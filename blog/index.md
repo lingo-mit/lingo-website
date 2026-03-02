@@ -7,7 +7,7 @@ title: Blog
 
 [Introspective interpretability](introspective_interpretability)
 
-[Language Models, World Models, and Human Model-Building](world_models)
+[Language models, world models, and human model-building](world_models)
 
-[Notes on Teaching GPT-3 Adding Numbers](arithmetic_gpt3/index.html)
+[Notes on teaching GPT-3 adding numbers](arithmetic_gpt3/index.html)
 
