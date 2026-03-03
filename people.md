@@ -99,7 +99,7 @@ Ghebreselassie</li>
   <li><a href="https://christykl.github.io/"><img
 src="https://christykl.github.io/images/headshot.jpg">Christy Li</a></li>
   <li><a href="https://mahdiafshari.com/"><img
-src="https://images.squarespace-cdn.com/content/v1/64f022bccfb796067e6088ad/40a2dd17-b029-4f23-b21c-75de2073c56a/ED71D57A-530A-4642-9224-28276404F73A_1_105_c+-+Mahdi.jpg"></li>
+src="https://images.squarespace-cdn.com/content/v1/64f022bccfb796067e6088ad/40a2dd17-b029-4f23-b21c-75de2073c56a/ED71D57A-530A-4642-9224-28276404F73A_1_105_c+-+Mahdi.jpg"></a></li>
 </ul>
 
 ## Friends & Visitors
