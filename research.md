@@ -7,21 +7,25 @@ title: Papers
 
 ### Preprints
 
+- [It’s Time to Optimize for Self-Consistency.](https://time-for-consistency.github.io/assets/pdfs/Consistency_Pos_Paper.pdf)
+
+  Itamar Pres\*, Belinda Z. Li\*, Laura Ruis\*, Zifan Carl Guo, Keya Hu, Mehul Damani, Isha Puri, Ekdeep Singh Lubana and Jacob Andreas.
+
 - [Training language models to explain their own computations.](https://arxiv.org/abs/2511.08579)
 
   Belinda Z. Li, Zifan Carl Guo, Vincent Huang, Jacob Steinhardt and Jacob Andreas.
-
-
-- [Modeling student learning with 3.8 million program traces.](https://www.arxiv.org/abs/2510.05056)
-
-  Alexis Ross, Megha Srivastava, Jeremiah Blanchard and Jacob Andreas.
-
 
 - [Learning to make MISTAKEs: Modeling incorrect student thinking and key errors.](https://arxiv.org/abs/2510.11502)
 
   Alexis Ross and Jacob Andreas.
 
 ### 2026
+
+- [Modeling student learning with 3.8 million program traces.](https://www.arxiv.org/abs/2510.05056)
+
+  Alexis Ross, Megha Srivastava, Jeremiah Blanchard and Jacob Andreas.
+
+  AIED 2026.
 
 - [ARC is a vision problem!](https://arxiv.org/abs/2511.14761)
 
