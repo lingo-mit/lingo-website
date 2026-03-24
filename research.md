@@ -7,7 +7,7 @@ title: Papers
 
 ### Preprints
 
-- [It’s Time to Optimize for Self-Consistency.](https://time-for-consistency.github.io/assets/pdfs/Consistency_Pos_Paper.pdf)
+- [It’s time to optimize for self-consistency.](https://time-for-consistency.github.io/assets/pdfs/Consistency_Pos_Paper.pdf)
 
   Itamar Pres\*, Belinda Z. Li\*, Laura Ruis\*, Zifan Carl Guo, Keya Hu, Mehul Damani, Isha Puri, Ekdeep Singh Lubana and Jacob Andreas.
 
@@ -33,6 +33,8 @@ title: Papers
 
   CVPR 2026.
 
+  <a class="code" href="https://github.com/lillian039/VARC">code</a>
+
 - [Policy learning with a language bottleneck.](https://arxiv.org/abs/2405.04118)
 
   Megha Srivastava, Cedric Colas, Dorsa Sadigh and Jacob Andreas.
@@ -45,11 +47,15 @@ title: Papers
 
   ICLR 2026.
 
+  <a class="project" href="https://rl-calibration.github.io/">project page</a>
+
 - [OpenEstimate: Evaluating LLMs on reasoning under uncertainty with real-world data.](https://www.arxiv.org/abs/2510.15096)
 
   Alana Renda, Jillian Ross, Michael Cafarella and Jacob Andreas.
 
   ICLR 2026.
+
+  <a class="code" href="https://github.com/alanarenda/openestimate">code</a>
 
 - [Sequential–parallel duality in prefix scannable models.](https://arxiv.org/abs/2506.10918)
 
@@ -57,7 +63,7 @@ title: Papers
 
   ICLR, 2026.
 
-- [Log-Augmented generation: Scaling test-time reasoning with reusable computation.](https://arxiv.org/abs/2505.14398)
+- [Log-augmented generation: Scaling test-time reasoning with reusable computation.](https://arxiv.org/abs/2505.14398)
 
   Peter Baile Chen, Yi Zhang, Dan Roth, Samuel Madden, Jacob Andreas and Mike Cafarella.
 
@@ -74,6 +80,8 @@ title: Papers
   Gabriel Grand, Valerio Pepe, Joshua B. Tenenebaum and Jacob Andreas.
 
   ICLR 2026 <b>Oral</b>.
+
+  <a class="project" href="https://www.gabegrand.com/battleship/">project page</a>
 
 ### 2025
 
