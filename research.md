@@ -8,7 +8,7 @@ title: Papers
 ### Preprints
 
 - [Reaching beyond the mode: RL for distributional reasoning in language
-  models](https://arxiv.org/abs/2603.24844)
+  models.](https://arxiv.org/abs/2603.24844)
 
   Isha Puri, Mehul Damani, Idan Shenfeld, Marzyeh Ghassemi, Jacob
   Andreas and Yoon Kim.
