@@ -54,12 +54,6 @@ title: People
     Alana Marzoev
     </a>
   </li>
-  <li>
-    <a href="https://morrisyau.com">
-    <img src="https://i0.wp.com/morrisyau.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-07-at-11.35.36-AM-edited.png?w=1260&ssl=1">
-    Morris Yau
-    </a>
-  </li>
 </ul>
 
 ## Postdocs 
@@ -136,6 +130,7 @@ src="https://linlu-qiu.github.io/images/photo.jpeg">Linlu Qiu</a></li>
 ## Alumni
 
 <ul class="people">
+<li>Morris Yau (PhD)</li>
 <li>Andi Peng (PhD, on leave at Humans&amp;)</li>
 <li>Alexis Ross (PhD, on leave at Humans&amp;)</li>
 <li>Jen ben Arye</li>
