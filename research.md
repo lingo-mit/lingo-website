@@ -23,7 +23,7 @@ title: Papers
 
   ICML 2026.
 
-- [It’s time to optimize for self-consistency.](https://time-for-consistency.github.io/assets/pdfs/Consistency_Pos_Paper.pdf)
+- [Position: It’s time to optimize for self-consistency.](https://time-for-consistency.github.io/assets/pdfs/Consistency_Pos_Paper.pdf)
 
   Itamar Pres\*, Belinda Z. Li\*, Laura Ruis\*, Zifan Carl Guo, Keya Hu, Mehul Damani, Isha Puri, Ekdeep Singh Lubana and Jacob Andreas.
 
