@@ -7,16 +7,6 @@ title: Papers
 
 ### Preprints
 
-- [Reaching beyond the mode: RL for distributional reasoning in language
-  models.](https://arxiv.org/abs/2603.24844)
-
-  Isha Puri, Mehul Damani, Idan Shenfeld, Marzyeh Ghassemi, Jacob
-  Andreas and Yoon Kim.
-
-- [It’s time to optimize for self-consistency.](https://time-for-consistency.github.io/assets/pdfs/Consistency_Pos_Paper.pdf)
-
-  Itamar Pres\*, Belinda Z. Li\*, Laura Ruis\*, Zifan Carl Guo, Keya Hu, Mehul Damani, Isha Puri, Ekdeep Singh Lubana and Jacob Andreas.
-
 - [Training language models to explain their own computations.](https://arxiv.org/abs/2511.08579)
 
   Belinda Z. Li, Zifan Carl Guo, Vincent Huang, Jacob Steinhardt and Jacob Andreas.
@@ -26,6 +16,18 @@ title: Papers
   Alexis Ross and Jacob Andreas.
 
 ### 2026
+
+- [Reaching beyond the mode: RL for distributional reasoning in language models.](https://arxiv.org/abs/2603.24844)
+
+  Isha Puri, Mehul Damani, Idan Shenfeld, Marzyeh Ghassemi, Jacob Andreas and Yoon Kim.
+
+  ICML 2026.
+
+- [It’s time to optimize for self-consistency.](https://time-for-consistency.github.io/assets/pdfs/Consistency_Pos_Paper.pdf)
+
+  Itamar Pres\*, Belinda Z. Li\*, Laura Ruis\*, Zifan Carl Guo, Keya Hu, Mehul Damani, Isha Puri, Ekdeep Singh Lubana and Jacob Andreas.
+
+  ICML 2026.
 
 - [Modeling student learning with 3.8 million program traces.](https://www.arxiv.org/abs/2510.05056)
 
