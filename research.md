@@ -7,6 +7,10 @@ title: Papers
 
 ### Preprints
 
+- [Embedded language flows.](https://arxiv.org/abs/2605.10938)
+
+  Keya Hu, Linlu Qiu, Yiyang Lu, Hanhong Zhao, Tianhong Li, Yoon Kim, Jacob Andreas, Kaiming He.
+
 - [Training language models to explain their own computations.](https://arxiv.org/abs/2511.08579)
 
   Belinda Z. Li, Zifan Carl Guo, Vincent Huang, Jacob Steinhardt and Jacob Andreas.
