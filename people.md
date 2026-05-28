@@ -19,12 +19,6 @@ title: People
     </a>
   </li>
   <li>
-    <a href="https://belindal.github.io/">
-    <img src="assets/images/belinda.jpg">
-    Belinda Li
-    </a>
-  </li>
-  <li>
     <a href="https://www.gabegrand.com/">
     <img src="assets/images/gabe.jpg">
     Gabe Grand 
@@ -77,13 +71,8 @@ title: People
 <ul class="people">
   <li><a href="https://amirihayes.com/"><img
 src="https://oge.mit.edu/msrp/wp-content/uploads/sites/2/2025/10/HayesAmiri-edited-scaled.jpg">Amiri Hayes</a></li>
-  <li><a href="https://chry-santhemum.github.io/website/about/"><img
-src="https://chry-santhemum.github.io/website/images/photo.JPG">Atticus Wang</a></li>
-  <li><a href="https://www.carlguo.com/"><img
-src="https://www.carlguo.com/images/avatar.9bf3a2d3314f118166b7a73418ed9d709560eb63cfd40180a5d2a19470070b54.jpg">Carl Guo</a></li>
   <li><img
 src="https://energy.mit.edu/wp-content/uploads/2024/09/Riddhi-Bhagwat-UROP-Headshot-scaled-401x600.jpg">Riddhi Bhagwat</li>
-  <li><img src="https://mitathletics.com/images/2026/1/6/Nolan_Clement.JPG">Nolan Clement</li>
   <li><img src="https://superurop.mit.edu/wp-content/uploads/2025/10/medhaven@mit.edu_-300x300.jpg">Medha Venkatapathy</li>
   <li><a href="https://ayushnayak.com/"><img
 src="https://www.davidsongifted.org/wp-content/uploads/2022/08/Nayak_Ayush-6-545x500.jpeg">Ayush Nayak</a></li>
@@ -130,7 +119,11 @@ src="https://linlu-qiu.github.io/images/photo.jpeg">Linlu Qiu</a></li>
 ## Alumni
 
 <ul class="people">
+<li>Belinda Li (PhD)</li>
 <li>Morris Yau (PhD)</li>
+<li>Atticus Wang (SB)</li>
+<li>Carl Guo (MEng)</li>
+<li>Nolan Clement</li>
 <li>Andi Peng (PhD, on leave at Humans&amp;)</li>
 <li>Alexis Ross (PhD, on leave at Humans&amp;)</li>
 <li>Jen ben Arye</li>
