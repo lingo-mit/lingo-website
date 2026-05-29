@@ -8,7 +8,9 @@ pages:
 
   - title: Research
     url: /research.html
-    
+
   - title: Blog
     url: /blog
 
+  - title: Reading Group
+    url: /reading-group.html

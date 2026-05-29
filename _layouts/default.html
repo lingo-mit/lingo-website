@@ -30,5 +30,13 @@
         {{ content }}
       <article>
     </div>
+    <script>
+      document.querySelectorAll('a[href^="http://"], a[href^="https://"]').forEach(function(link) {
+        if (link.hostname !== window.location.hostname) {
+          link.target = "_blank";
+          link.rel = "noopener";
+        }
+      });
+    </script>
   </body>
 </html>
