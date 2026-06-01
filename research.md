@@ -187,7 +187,7 @@ href="https://venturebeat.com/ai/how-can-ai-better-understand-humans-simple-by-a
 
   NAACL 2025.
 
-- [Language modeling with editable external knowledge.](https://arxiv.org/abs/2406.11830).
+- [Language modeling with editable external knowledge.](https://arxiv.org/abs/2406.11830)
 
   Belinda Z. Li, Emmy Liu, Alexis Ross, Abbas Zeitoun, Graham Neubig and Jacob Andreas
 
