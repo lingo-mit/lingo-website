@@ -24,6 +24,7 @@ Memory, Energy, and Test-Time Adaptation.
 | Date | Theme | Reading / session | Authors | Format |
 | --- | --- | --- | --- | --- |
 | June 18, 2026 | Memory, Energy, and Test-Time Adaptation | [Dense Associative Memory for Pattern Recognition](https://arxiv.org/abs/1606.01164) | Dmitry Krotov and John J Hopfield| Speaker: [Dmitry Krotov](https://dmitrykrotov.com/) |
+| June 4, 2026 | Memory, Energy, and Test-Time Adaptation | [How to Train Your Energy-Based Models](https://arxiv.org/abs/2101.03288) | Yang Song and Diederik P. Kingma| Group discussion |
 | May 21, 2026 | Memory, Energy, and Test-Time Adaptation | [A Tutorial on Energy-Based Learning](http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf) | Yann LeCun, Sumit Chopra, Raia Hadsell, et al. | Discussion led by [Belinda Z. Li](https://belindal.github.io/) |
 | May 14, 2026 | Memory, Energy, and Test-Time Adaptation | [Neural Networks and Physical Systems with Emergent Collective Computational Abilities](https://www.pnas.org/doi/10.1073/pnas.79.8.2554) | J. J. Hopfield | Discussion led by [Atticus Wang](https://awzf.me/) |
 | Apr. 16, 2026 | Intermezzo | [What do language models learn when they learn language?](https://arxiv.org/abs/2510.24963) | James A. Michaelov, Roger P. Levy, Benjamin K. Bergen | Speaker: [James A. Michaelov](https://jmichaelov.com/about/) |
