@@ -23,6 +23,7 @@ Memory, Energy, and Test-Time Adaptation.
 
 | Date | Theme | Reading / session | Authors | Format |
 | --- | --- | --- | --- | --- |
+| June 23, 2026 | Science of Deep Learning | [There Will Be a Scientific Theory of Deep Learning](https://arxiv.org/abs/2604.21691) |Jamie Simon et al.| Discussion led by [Itamar Pres](https://itam67.github.io/) |
 | June 18, 2026 | Memory, Energy, and Test-Time Adaptation | [Dense Associative Memory for Pattern Recognition](https://arxiv.org/abs/1606.01164) | Dmitry Krotov and John J Hopfield| Speaker: [Dmitry Krotov](https://dmitrykrotov.com/) |
 | June 4, 2026 | Memory, Energy, and Test-Time Adaptation | [How to Train Your Energy-Based Models](https://arxiv.org/abs/2101.03288) | Yang Song and Diederik P. Kingma| Group discussion |
 | May 21, 2026 | Memory, Energy, and Test-Time Adaptation | [A Tutorial on Energy-Based Learning](http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf) | Yann LeCun, Sumit Chopra, Raia Hadsell, et al. | Discussion led by [Belinda Z. Li](https://belindal.github.io/) |
