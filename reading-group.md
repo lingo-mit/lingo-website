@@ -17,7 +17,7 @@ what we are currently thinking about.
 
 ### Current Theme
 
-Memory, Energy, and Test-Time Adaptation.
+Science of Deep Learning
 
 ### Sessions
 
