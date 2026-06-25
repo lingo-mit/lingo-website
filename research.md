@@ -7,6 +7,14 @@ title: Papers
 
 ### Preprints
 
+- [Explaining Attention with Program Synthesis](https://arxiv.org/abs/2606.19317)
+
+  Amiri Hayes, Belinda Li and Jacob Andreas.
+
+- [Self-CTRL: Self-Consistency Training with Reinforcement Learning](https://arxiv.org/abs/2606.18327)
+
+  Itamar Pres, Laura Ruis, Melat Ghebreselassie, Belinda Z. Li\* and Jacob Andreas\*.
+
 - [Embedded language flows.](https://arxiv.org/abs/2605.10938)
 
   Keya Hu, Linlu Qiu, Yiyang Lu, Hanhong Zhao, Tianhong Li, Yoon Kim, Jacob Andreas, Kaiming He.
