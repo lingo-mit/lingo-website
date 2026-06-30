@@ -7,11 +7,11 @@ title: Papers
 
 ### Preprints
 
-- [Explaining Attention with Program Synthesis](https://arxiv.org/abs/2606.19317)
+- [Explaining attention with program synthesis.](https://arxiv.org/abs/2606.19317)
 
   Amiri Hayes, Belinda Li and Jacob Andreas.
 
-- [Self-CTRL: Self-Consistency Training with Reinforcement Learning](https://arxiv.org/abs/2606.18327)
+- [Self-CTRL: Self-consistency training with reinforcement learning.](https://arxiv.org/abs/2606.18327)
 
   Itamar Pres, Laura Ruis, Melat Ghebreselassie, Belinda Z. Li\* and Jacob Andreas\*.
 
