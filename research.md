@@ -7,7 +7,7 @@ title: Papers
 
 ### Preprints
 
-- [Introspective coupling: Self-explanation training tracks behavioral change despite fixed supervision](https://arxiv.org/abs/2606.32038)
+- [Introspective coupling: Self-explanation training tracks behavioral change despite fixed supervision.](https://arxiv.org/abs/2606.32038)
 
   Zifan Carl Guo, Laura Ruis, Jacob Andreas and Belinda Z. Li.
 
