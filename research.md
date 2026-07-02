@@ -7,6 +7,10 @@ title: Papers
 
 ### Preprints
 
+- [Right in the right way: LM training with verifiable rewards and human demonstrations.](https://arxiv.org/abs/2607.01181)
+
+  Mehul Damani, Isha Puri, Idan Shenfeld and Jacob Andreas.
+
 - [Introspective coupling: Self-explanation training tracks behavioral change despite fixed supervision.](https://arxiv.org/abs/2606.32038)
 
   Zifan Carl Guo, Laura Ruis, Jacob Andreas and Belinda Z. Li.
