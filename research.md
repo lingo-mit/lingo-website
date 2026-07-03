@@ -87,7 +87,7 @@ title: Papers
 
 - [Sequential–parallel duality in prefix scannable models.](https://arxiv.org/abs/2506.10918)
 
-  Morris Yau, Sharut Gupta, Valerie Engelmayer, Kazuki Irie, Stefanie Jegelka and Jacob Andreas.
+  Morris Yau, Sharut Gupta, Valerie Engelmayer, Kazuki Irie, Jacob Andreas and Stefanie Jegelka.
 
   ICLR, 2026.
 
