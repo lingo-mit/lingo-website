@@ -123,10 +123,10 @@ src="https://linlu-qiu.github.io/images/photo.jpeg">Linlu Qiu</a></li>
 <li>Morris Yau (PhD)</li>
 <li>Atticus Wang (SB)</li>
 <li>Carl Guo (MEng)</li>
-<li>Nolan Clement</li>
+<li>Nolan Clement (MEng)</li>
 <li>Andi Peng (PhD, on leave at Humans&amp;)</li>
 <li>Alexis Ross (PhD, on leave at Humans&amp;)</li>
-<li>Jen ben Arye</li>
+<li>Jen ben Arye (SB)</li>
 <li>Uzay Girit (SB)</li>
 <li>C&eacute;dric Colas (Postdoc)</li>
 <li>Andre Braga (SB, UCSB)</li>
