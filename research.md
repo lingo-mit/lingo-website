@@ -7,6 +7,10 @@ title: Papers
 
 ### Preprints
 
+- [From weights to words: Expressing and editing preference model inferences in natural language.](https://arxiv.org/abs/2607.16232)
+
+  Zachary Wojtowicz, Ayush Nayak and Jacob Andreas.
+
 - [Right in the right way: LM training with verifiable rewards and human demonstrations.](https://arxiv.org/abs/2607.01181)
 
   Mehul Damani, Isha Puri, Idan Shenfeld and Jacob Andreas.
