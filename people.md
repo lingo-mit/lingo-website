@@ -3,18 +3,18 @@ layout: default
 title: People
 ---
 
-## PhD Students
+## PhD Students and Post-Bacs
 
 <ul class="people">
   <li>
     <a href="https://itam67.github.io/">
-    <img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=FuETqOUAAAAJ&citpid=1">
+    <img src="assets/images/itamar.jpg">
     Itamar Pres
     </a>
   </li>
   <li>
     <a href="https://lillian039.github.io/">
-    <img src="https://lillian039.github.io/assets/img/prof_pic3.jpg?30e25a1caa2f7b5757da09dca8648e67">
+    <img src="assets/images/keya.jpg">
     Keya Hu
     </a>
   </li>
@@ -44,8 +44,32 @@ title: People
   </li>
   <li>
     <a href="https://www.alanamarzoev.com/">
-    <img src="https://images.squarespace-cdn.com/content/v1/59b326d649fc2b50d07ddc90/1585763893142-TXBESI01LDAKPMB74BN1/headshot.JPG?format=2500w">
+    <img src="assets/images/alana.jpg">
     Alana Marzoev
+    </a>
+  </li>
+  <li>
+    <a href="https://linlu-qiu.github.io/">
+    <img src="assets/images/linlu.jpg">
+    Linlu Qiu
+    </a>
+  </li>
+  <li>
+    <a href="https://alansun17904.github.io/">
+    <img src="assets/images/alan.jpg">
+    Alan Sun
+    </a>
+  </li>
+  <li>
+    <a href="https://elinorp-d.github.io/">
+    <img src="assets/images/elinor.jpg">
+    Elinor Poole-Dayan
+    </a>
+  </li>
+  <li>
+    <a href="https://amirihayes.com/">
+    <img src="assets/images/amiri.jpg">
+    Amiri Hayes
     </a>
   </li>
 </ul>
@@ -55,43 +79,33 @@ title: People
 <ul class="people">
   <li>
     <a href="https://lauraruis.github.io/">
-    <img src="https://lauraruis.github.io/images/laura.jpg">
+    <img src="assets/images/laura.jpg">
     Laura Ruis
-    </a>
-  </li>
-  <li>
-    <a href="https://ktilana.wixsite.com/leshem-choshen">
-    <img src="assets/images/leshem.jpg">
-    Leshem Choshen
     </a>
   </li>
 </ul>
 
 ## MEngs and undergrads
 <ul class="people">
-  <li><a href="https://amirihayes.com/"><img
-src="https://oge.mit.edu/msrp/wp-content/uploads/sites/2/2025/10/HayesAmiri-edited-scaled.jpg">Amiri Hayes</a></li>
   <li><img
-src="https://energy.mit.edu/wp-content/uploads/2024/09/Riddhi-Bhagwat-UROP-Headshot-scaled-401x600.jpg">Riddhi Bhagwat</li>
-  <li><img src="https://superurop.mit.edu/wp-content/uploads/2025/10/medhaven@mit.edu_-300x300.jpg">Medha Venkatapathy</li>
+src="assets/images/riddhi.jpg">Riddhi Bhagwat</li>
+  <li><img src="assets/images/medha.jpg">Medha Venkatapathy</li>
   <li><a href="https://ayushnayak.com/"><img
-src="https://www.davidsongifted.org/wp-content/uploads/2022/08/Nayak_Ayush-6-545x500.jpeg">Ayush Nayak</a></li>
+src="assets/images/ayush.jpg">Ayush Nayak</a></li>
 <li><img
-src="https://media.licdn.com/dms/image/v2/D4E03AQEEYEK473eTwg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1714865491530?e=2147483647&v=beta&t=gvE5unAVEvKNraVQegVPGiDoW1dqcdzm6ayGAyzgwp8">Melat
+src="assets/images/melat.jpg">Melat
 Ghebreselassie</li>
   <li><a href="https://christykl.github.io/"><img
-src="https://christykl.github.io/images/headshot.jpg">Christy Li</a></li>
+src="assets/images/christy.jpg">Christy Li</a></li>
   <li><a href="https://mahdiafshari.com/"><img
-src="https://images.squarespace-cdn.com/content/v1/64f022bccfb796067e6088ad/40a2dd17-b029-4f23-b21c-75de2073c56a/ED71D57A-530A-4642-9224-28276404F73A_1_105_c+-+Mahdi.jpg">Mahdi Afshari</a></li>
+src="assets/images/mahdi.jpg">Mahdi Afshari</a></li>
 </ul>
 
+<!--
 ## Friends & Visitors
 <ul class="people">
-<li><a href="https://cedzhang.com/"><img
-src="https://cedzhang.com/assets/img/ced.jpg">Ced Zhang</a></li>
-<li><a href="https://linlu-qiu.github.io/"><img
-src="https://linlu-qiu.github.io/images/photo.jpeg">Linlu Qiu</a></li>
 </ul>
+-->
 
 
 ## Admin
@@ -110,7 +124,7 @@ src="https://linlu-qiu.github.io/images/photo.jpeg">Linlu Qiu</a></li>
 <ul class="people">
   <li>
     <a href="https://web.mit.edu/jda/www/">
-      <img src="https://web.mit.edu/jda/www/figs/head_small.jpg">
+      <img src="assets/images/jacob.jpg">
       Jacob Andreas
     </a>
   </li>
@@ -119,6 +133,8 @@ src="https://linlu-qiu.github.io/images/photo.jpeg">Linlu Qiu</a></li>
 ## Alumni
 
 <ul class="people">
+<li>Ced Zhang (PhD, BCS)</li>
+<li>Leshem Choshen (Postdoc)</li>
 <li>Belinda Li (PhD)</li>
 <li>Morris Yau (PhD)</li>
 <li>Atticus Wang (SB)</li>
