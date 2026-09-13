@@ -3,7 +3,7 @@ layout: default
 title: People
 ---
 
-## PhD Students and Post-Bacs
+## PhD students and post-bacs
 
 <ul class="people">
   <li>
@@ -85,7 +85,7 @@ title: People
   </li>
 </ul>
 
-## MEngs and undergrads
+## Undergrad and MEng students
 <ul class="people">
   <li><img
 src="assets/images/riddhi.jpg">Riddhi Bhagwat</li>
