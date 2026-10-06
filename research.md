@@ -15,10 +15,6 @@ title: Papers
 
   Mehul Damani, Isha Puri, Idan Shenfeld and Jacob Andreas.
 
-- [Introspective coupling: Self-explanation training tracks behavioral change despite fixed supervision.](https://arxiv.org/abs/2606.32038)
-
-  Zifan Carl Guo, Laura Ruis, Jacob Andreas and Belinda Z. Li.
-
 - [Explaining attention with program synthesis.](https://arxiv.org/abs/2606.19317)
 
   Amiri Hayes, Belinda Li and Jacob Andreas.
@@ -27,19 +23,29 @@ title: Papers
 
   Itamar Pres, Laura Ruis, Melat Ghebreselassie, Belinda Z. Li\* and Jacob Andreas\*.
 
-- [Embedded language flows.](https://arxiv.org/abs/2605.10938)
-
-  Keya Hu, Linlu Qiu, Yiyang Lu, Hanhong Zhao, Tianhong Li, Yoon Kim, Jacob Andreas, Kaiming He.
-
-- [Training language models to explain their own computations.](https://arxiv.org/abs/2511.08579)
-
-  Belinda Z. Li, Zifan Carl Guo, Vincent Huang, Jacob Steinhardt and Jacob Andreas.
-
 - [Learning to make MISTAKEs: Modeling incorrect student thinking and key errors.](https://arxiv.org/abs/2510.11502)
 
   Alexis Ross and Jacob Andreas.
 
 ### 2026
+
+- [Embedded language flows.](https://arxiv.org/abs/2605.10938)
+
+  Keya Hu, Linlu Qiu, Yiyang Lu, Hanhong Zhao, Tianhong Li, Yoon Kim, Jacob Andreas, Kaiming He.
+
+  NeurIPS 2026.
+
+- [Introspective coupling: Self-explanation training tracks behavioral change despite fixed supervision.](https://arxiv.org/abs/2606.32038)
+
+  Zifan Carl Guo, Laura Ruis, Jacob Andreas and Belinda Z. Li.
+
+  NeurIPS 2026.
+
+- [Training language models to explain their own computations.](https://arxiv.org/abs/2511.08579)
+
+  Belinda Z. Li, Zifan Carl Guo, Vincent Huang, Jacob Steinhardt and Jacob Andreas.
+
+  NeurIPS 2026.
 
 - [Reaching beyond the mode: RL for distributional reasoning in language models.](https://arxiv.org/abs/2603.24844)
 
